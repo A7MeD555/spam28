@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 
- var prefix = "28";
+ var prefix = "!";
 
  client.on('message', message => {
 
